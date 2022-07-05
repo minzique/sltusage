@@ -1,0 +1,4 @@
+venv/*
+sltusage_old.py
+.vscode/*
+__pycache__/*
